@@ -1,4 +1,4 @@
-This program mimics the black jack game based on user strategy using a text-based user interface (TUI).
+This program mimics the black jack game based on selected user strategy using a text-based user interface (TUI). Once a strategy is selected, game is automatically played. 
 
 Testing:
 
